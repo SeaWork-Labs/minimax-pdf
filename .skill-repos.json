@@ -1,0 +1,7 @@
+{
+  "slug": "minimax-pdf",
+  "displayName": "PDF 文档生成",
+  "description": "生成高质量 PDF 文档，支持排版、分页与内嵌资源。",
+  "releaseVersion": "1.0.1",
+  "authorVersion": "1.0.0"
+}
